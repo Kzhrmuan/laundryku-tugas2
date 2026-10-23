@@ -3,8 +3,6 @@
 **Nama:** Muhammad Anis  
 **NIM:** 10124153  
 **Kelas:** IF 4  
-**Dosen:** Donny Reza, M.Kom  
-**Kampus:** Universitas Komputer Indonesia (UNIKOM)
 
 ## Deskripsi
 Aplikasi sistem informasi manajemen data pesanan laundry berbasis PHP Native dan MySQL/MariaDB.
@@ -21,6 +19,3 @@ Aplikasi sistem informasi manajemen data pesanan laundry berbasis PHP Native dan
 - CRUD pesanan laundry (tambah, lihat, edit, hapus)
 - Validasi form & sanitasi input
 - Fitur dua bahasa (Indonesia / Inggris)
-
-## Teknologi
-PHP Native, MySQL/MariaDB, HTML, CSS
